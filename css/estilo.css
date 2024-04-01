@@ -1,0 +1,66 @@
+/*Este é um comentário em CSS*/
+/*
+    Este é um comentário 
+    em BLOCO em CSS
+*/
+      
+h1{
+    background-color: rgb(185, 240, 248) !important;
+    color: #000000;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color: #000000;
+    background-color: rgb(185, 240, 248);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+/* Class */
+.link {
+    color: #318021;
+}
+.meu-h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul .link {
+    color: #e8240e;
+    /* border: 2px solid #e8240e; */
+    display: inline;
+    margin: 0 3%;
+
+    /* Nesting links */
+    a{
+        text-decoration: none;
+        color: #e8240e;
+    }
+
+}
+
+#menu ul{
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+/* ID */
+#container {
+    width: 80%;
+    height: 100%;
+    border: 2px solid #000;
+    margin: 0 auto;
+}
+<<<<<<< HEAD
+#cabecalho{
+    background-color: #212380;
+}
+#h1{font-family ;
+}
+#p{ selection }
+=======
+/*---------------------------------------*/
+#cabecalho{
+    background-color: #00a2ff;
+}
+>>>>>>> f334e674da19aa96deb2f3cca0f879004e541bb6
