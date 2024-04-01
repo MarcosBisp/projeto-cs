@@ -16,6 +16,9 @@ h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
+p{
+    color: #318021;
+}
 /* Class */
 .link {
     color: #318021;
@@ -23,6 +26,27 @@ h2{
 .meu-h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.forma{
+    border: 1px solid rgb(107, 107, 107);
+    padding: 10px;
+}
+.button{
+    background-color: #abdefc;
+    border: none;
+    color: #ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.rodape{
+    border-top: 2px solid #ff0000;
+}
+
+/*--------------------------------------------------------------------------------*/
 
 ul .link {
     color: #e8240e;
@@ -50,17 +74,12 @@ ul .link {
     height: 100%;
     border: 2px solid #000;
     margin: 0 auto;
+    padding: 20px;
 }
-<<<<<<< HEAD
-#cabecalho{
-    background-color: #212380;
-}
-#h1{font-family ;
-}
-#p{ selection }
-=======
 /*---------------------------------------*/
 #cabecalho{
     background-color: #00a2ff;
 }
-
+#conteudo{
+    line-height: 1.5;
+}
