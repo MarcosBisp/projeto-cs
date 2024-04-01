@@ -23,7 +23,7 @@ p{
 .link {
     color: #318021;
 }
-.meu-h1{
+.pobre{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .forma{
@@ -31,7 +31,7 @@ p{
     padding: 10px;
 }
 .button{
-    background-color: #abdefc;
+    background-color: #fcf4ab;
     border: none;
     color: #ffffff;
     padding: 15px 32px;
